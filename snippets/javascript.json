@@ -11,7 +11,7 @@
 		"body": [
 			"$(${selector}).after(${content});"
 		],
-		"description": "Insert content, specified by the parameter, after each element in the set of matched elements."
+		"description": "在匹配的元素集中的每个元素之后插入由参数指定的内容"
 	},
 	"jqAjax": {
 		"prefix": "jqAjax",
@@ -26,7 +26,7 @@
 			"\t}",
 			"});"
 		],
-		"description": "Perform an asynchronous HTTP (Ajax) request."
+		"description": "执行异步HTTP（Ajax）请求"
 	},
 	"jqAjaxAspNetWebService": {
 		"prefix": "jqAjaxAspNetWebService",
@@ -42,7 +42,7 @@
 			"\t}",
 			"});"
 		],
-		"description": "Perform an asynchronous HTTP (Ajax) request to a ASP.NET web service."
+		"description": "对ASP.NET Web服务执行异步HTTP（Ajax）请求"
 	},
 	"jqAppend": {
 		"prefix": "jqAppend",
