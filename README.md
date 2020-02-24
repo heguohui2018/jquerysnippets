@@ -1,8 +1,9 @@
 # jQuery Code Snippets
 
-Over 130 jQuery Code Snippets for JavaScript code.
+本库是
+在原有作者劳动成果的基础上，添加了一些修改，比如增加一些中文注释，以及添加一些新的函数，具体函数请查阅jquery中文手册
 
-Just type the letters 'jq' to get a list of all available jQuery Code Snippets.
+只需要输入jq，就可以获取所有jquery代码片段列表
 
 ![Image of Snippets](https://raw.githubusercontent.com/DonJayamanne/jquerysnippets/master/images/snippets.png)
 
